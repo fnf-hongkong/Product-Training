@@ -1,13 +1,19 @@
-# MLB FW26 RTW Product Training — store copy
+# MLB Product Training
 
-Part 1 of the FW26 RTW product training deck (pages 1-40).
+Store-facing product training decks for MLB Hong Kong & Macau.
 
-**Live:** https://fnf-hongkong.github.io/mlb-fw26-product-training/
+## FW26
 
-Self-contained: every photo is embedded, so it opens on any laptop with a browser
-and needs no network access beyond the first load.
+**RTW — Part 1 (pages 1–40):**
+https://fnf-hongkong.github.io/Product-Training/FW26/mlb-fw26-product-training-RTW.html
 
-- `S` for slide show, arrows to move, `F` full screen, `Esc` back to the dashboard
-- The 文/EN button switches the whole deck between English and 繁中
+Covers the IMC plan, the FW26 buy strategy, the five monthly collections, and the
+TS / WJ / WP / SK category run through to the Part 1 recap.
 
-Rebuild with `DECK_SLIDE_LIMIT=40` from `src/service/fw26_product_training/render.py`.
+Each deck is a single self-contained file — every photo is embedded, so it opens on
+any laptop and keeps working from a download with no network.
+
+- `S` for slide show, arrow keys to move, `F` full screen, `Esc` back to the dashboard
+- The 文 / EN button switches the whole deck between English and 繁中
+
+Rebuilt with `DECK_SLIDE_LIMIT=40` from `src/service/fw26_product_training/render.py`.
